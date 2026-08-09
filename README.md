@@ -8,7 +8,7 @@ Análise e especificação de requisitos para o Sistema de Gestão de Eventos da
 
 ## 2. Uso da IA Generativa
 
-- **Ferramenta Utilizada:** Antigravity AI (modelo Gemini 3.6 Flash / Google DeepMind).
+- **Ferramenta Utilizada:** Claude Code (modelo Claude Sonnet, Anthropic).
 - **Como a IA Apoiou o Projeto:**
   - Classificação de Requisitos Funcionais, Regras de Negócio e Dúvidas/Lacunas.
   - Proposta de Requisitos Não Funcionais candidatos (Segurança, LGPD, Desempenho, Acessibilidade).
